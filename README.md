@@ -36,8 +36,8 @@ The project applies **Business Intelligence concepts**, including ETL, data mode
 ---
 
 ##  Project Structure
-- **/data_cleaned** – Cleaned datasets & data dictionary  
-- **/etl** – ETL notebooks and scripts  
+- **/data_cleaned** – Cleaned dataset
+- **/etl** – ETL notebook 
 - **/model** – Star schema & measures  
 - **/dashboard** – Power BI dashboards  
 - **/report** – Insights & recommendations  
